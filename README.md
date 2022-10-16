@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm John</h1>
 <h3 align="center">A full-stack Java developer and IT enthusiast</h3>
 
-- 🎓 I'm currently studying **Electrical & Computer Engineering** at the **National and Technical University of Athens**
+- 🎓 I'm currently studying **Electrical and Computer Engineering** at the **National Technical University of Athens**
 
 - 🌱 I’m currently learning **PHP, golang**
 
